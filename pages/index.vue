@@ -36,7 +36,7 @@
   useServerSeoMeta({
     title: 'Status page for Aji Media - Aji Setiawan',
     ogTitle: 'Status page for Aji Media - Aji Setiawan',
-    description: 'Just pages info about website status is down or not.',
+    description: 'Welcome to Aji Media status page for real-time and historical data on system performance.',
     ogDescription: 'Welcome to Aji Media status page for real-time and historical data on system performance.',
     ogUrl: 'https://status.ajimedia.my.id/',
     ogSiteName: 'Status page for Aji Media - Aji Setiawan',
