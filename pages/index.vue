@@ -44,7 +44,7 @@
     twitterCard: 'summary_large_image',
     twitterTitle: 'Status page for Aji Media - Aji Setiawan',
     twitterImage: 'https://better-uptime-status-page.vercel.app/og_image.png',
-    twitterDescription: 'Just pages info about website status is down or not.'
+    twitterDescription: 'Welcome to Aji Media status page for real-time and historical data on system performance.
   })
 
   const runtimeConfig = useRuntimeConfig();
