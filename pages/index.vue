@@ -37,7 +37,7 @@
     title: 'Status page for Aji Media - Aji Setiawan',
     ogTitle: 'Status page for Aji Media - Aji Setiawan',
     description: 'Just pages info about website status is down or not.',
-    ogDescription: 'Status page for Aji Media - Aji Setiawan',
+    ogDescription: 'Welcome to Aji Media status page for real-time and historical data on system performance.',
     ogUrl: 'https://status.ajimedia.my.id/',
     ogSiteName: 'Status page for Aji Media - Aji Setiawan',
     ogImage: 'https://better-uptime-status-page.vercel.app/og-image.png',
