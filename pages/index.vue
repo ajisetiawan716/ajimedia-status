@@ -34,7 +34,7 @@
 
 <script setup lang="ts">
   useServerSeoMeta({
-    title: 'Status page for Better uptime - Sebastian Kaier',
+    title: 'Status page for Aji Media - Aji Setiawan',
     ogTitle: 'Status page for Better uptime - Sebastian Kaier',
     description: 'See on GitHub - https://github.com/skaiwlkr/better-uptime-status-page',
     ogDescription: 'Status page for Better uptime - Sebastian Kaier',
