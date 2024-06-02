@@ -35,16 +35,16 @@
 <script setup lang="ts">
   useServerSeoMeta({
     title: 'Status page for Aji Media - Aji Setiawan',
-    ogTitle: 'Status page for Better uptime - Sebastian Kaier',
-    description: 'See on GitHub - https://github.com/skaiwlkr/better-uptime-status-page',
-    ogDescription: 'Status page for Better uptime - Sebastian Kaier',
-    ogUrl: 'https://better-uptime-status-page.vercel.app/',
-    ogSiteName: 'Status page for Better uptime - Sebastian Kaier',
+    ogTitle: 'Status page for Aji Media - Aji Setiawan',
+    description: 'Just pages info about website status is down or not.',
+    ogDescription: 'Status page for Aji Media - Aji Setiawan',
+    ogUrl: 'https://status.ajimedia.my.id/',
+    ogSiteName: 'Status page for Aji Media - Aji Setiawan',
     ogImage: 'https://better-uptime-status-page.vercel.app/og-image.png',
     twitterCard: 'summary_large_image',
-    twitterTitle: 'Status page for Better uptime - Sebastian Kaier',
+    twitterTitle: 'Status page for Aji Media - Aji Setiawan',
     twitterImage: 'https://better-uptime-status-page.vercel.app/og_image.png',
-    twitterDescription: 'See on GitHub - https://github.com/skaiwlkr/better-uptime-status-page'
+    twitterDescription: 'Just pages info about website status is down or not.'
   })
 
   const runtimeConfig = useRuntimeConfig();
